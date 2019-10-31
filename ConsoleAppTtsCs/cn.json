@@ -1,0 +1,12 @@
+{
+  "host": {
+    "url": "http://rsparu.kentoes.com",
+    "uri_panggil_poli": "API/panggil/tmp/Poli"
+  },
+  "confVocalizer": {
+    "indVocalizer": 1,
+    "rate": -2,
+    "pitch": 0,
+    "volume": 100
+  }
+}
