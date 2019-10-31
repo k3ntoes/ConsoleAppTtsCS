@@ -14,3 +14,8 @@ choose 1 u want.
 open cn.json
 replace indVocalizer with the number displayed in the previous command
 rebuild and enjoy it!
+
+
+created by kentoes 
+web : https://kentoes.com
+email : k3ntoes.android@gmail.com
